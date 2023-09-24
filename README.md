@@ -23,6 +23,4 @@ step<br>
 
 result Example
 <br>
-
-
-[![Video Label](https://youtu.be/05c0wPGbZnk?si=ZY1O-iFep7HjdOal.0.jpg)](https://youtu.be/05c0wPGbZnk?si=ZY1O-iFep7HjdOal)
+[![Video Label](https://www.youtube.com/watch?v=05c0wPGbZnk/0.jpg)](https://www.youtube.com/watch?v=05c0wPGbZnk)
