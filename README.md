@@ -21,7 +21,17 @@ step<br>
    output : 체스보드의 (0,0,0)에 axis가 고정된 영상<br>
 <br><br>
 
-result Example
+result Example (클릭 시 유튜브로 이동합니다.)
 <br>
-
+result 1
 [![Video Label](http://img.youtube.com/vi/05c0wPGbZnk/0.jpg)](https://youtu.be/05c0wPGbZnk)
+
+<br>
+result 2
+
+<br>
+result 3
+
+<br><br>
+<h3>PS</h3>
+결과의 정확도를 높힐 수 있는 방법이 있다면 PR 부탁드립니다. 
