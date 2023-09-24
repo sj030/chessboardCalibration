@@ -28,9 +28,7 @@ result 1
 
 <br>
 result 2
-
-<br>
-result 3
+[![Video Label](http://img.youtube.com/vi/YxkAZl-BQxE/0.jpg)](https://youtu.be/YxkAZl-BQxE)
 
 <br><br>
 <h3>PS</h3>
