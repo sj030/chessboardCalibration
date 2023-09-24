@@ -23,7 +23,5 @@ step<br>
 
 result Example
 <br>
-
-
-https://github.com/sj030/Calibration_withchessboard/assets/127181878/bd12f811-2359-4f4e-b7c7-69dc2dfbd267
+https://youtu.be/05c0wPGbZnk?si=ZY1O-iFep7HjdOal
 
