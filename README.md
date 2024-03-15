@@ -31,5 +31,4 @@ result 2
 [![Video Label](http://img.youtube.com/vi/YxkAZl-BQxE/0.jpg)](https://youtu.be/YxkAZl-BQxE)
 
 <br><br>
-<h3>PS</h3>
-결과의 정확도를 높일 수 있는 방법이 있다면 PR 부탁드립니다. 
+
